@@ -1,0 +1,40 @@
+*** TP ***
+Créer une interface web permettant de composer
+un menu/générer un panier
+
+Partie gauche de l'écran, le menu:
+
+Entrée
+  Entrée 1  quantité  prix  ajouter
+  Entrée 2  quantité  prix  ajouter
+  Entrée 3  quantité  prix  ajouter
+
+Plat principal
+  Plat 1  quantité  prix  ajouter
+  Plat 2  quantité  prix  ajouter
+  Plat 3  quantité  prix  ajouter
+
+Dessert
+  Dessert 1  quantité  prix ajouter
+  Dessert 2  quantité  prix ajouter
+  Dessert 3  quantité  prix ajouter
+
+Boisson
+  Boisson 1  quantité  prix ajouter
+  Boisson 1  quantité  prix ajouter
+  Boisson 1  quantité  prix ajouter
+
+Partie droite de l'écran, le panier
+Exemple:
+Vos choix:
+  - entrée 1 x 2  prix
+  - plat 1  prix
+  - plat 2  prix
+  - dessert 3 prix
+  - boisson 1 x2  prix
+Prix total  commander
+
+Le clic sur commander affichera un message de remerciemen
+
+Bonus:
+Permettre de supprimer un élément du panier

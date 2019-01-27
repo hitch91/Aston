@@ -1,0 +1,12 @@
+#box {
+  width: 200px;
+  padding:40px;
+  font-size: 1.3rem;
+  background-color: #ccc;
+  color: green;
+  font-weight: bold;
+  border-radius: 8px;
+  float: right;
+  margin-right: 10px;
+  position: relative
+}

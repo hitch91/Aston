@@ -1,0 +1,12 @@
+#imagesSmall img {
+  height: 50px
+}
+
+#imagesBig img {
+  height: 200px;
+  display: none
+}
+
+section {
+  margin-bottom: 40px
+}

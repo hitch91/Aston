@@ -1,0 +1,26 @@
+article.advert {
+  background-color: #eee;
+  margin-bottom: 20px;
+  padding: 10px
+}
+
+header nav ul {
+  list-style: none
+}
+
+header nav ul li {
+  display: inline-block;
+  margin-right: 16px
+}
+
+.long {
+  width: 400px
+}
+
+img.thumb {
+  height: 25px
+}
+
+img.xs {
+  height: 50px
+}

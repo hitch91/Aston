@@ -1,0 +1,39 @@
+section {
+  width: 33%;
+  display: none;
+}
+
+section header {
+  font-size: 1.2rem;
+  font-weight: bold
+}
+
+nav ul {
+  padding-left: 0
+}
+
+nav ul li{
+  display: inline-block;
+}
+
+nav ul li a {
+  background-color: #ccc;
+  border-radius: 4px;
+  padding: 6px;
+  font-size: .9rem;
+}
+
+nav ul li a:hover {
+  /* retrait du soulignement  */
+  text-decoration: none
+}
+
+#wrapper {
+  padding-left: 20px
+}
+
+.active {
+  background-color: #999;
+  color: white;
+  font-weight: bold
+}
